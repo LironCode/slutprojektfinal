@@ -1,0 +1,15 @@
+C:\github\slutprojektfinal\bin\Debug\net9.0\slutprojektfinal.exe
+C:\github\slutprojektfinal\bin\Debug\net9.0\slutprojektfinal.deps.json
+C:\github\slutprojektfinal\bin\Debug\net9.0\slutprojektfinal.runtimeconfig.json
+C:\github\slutprojektfinal\bin\Debug\net9.0\slutprojektfinal.dll
+C:\github\slutprojektfinal\bin\Debug\net9.0\slutprojektfinal.pdb
+C:\github\slutprojektfinal\obj\Debug\net9.0\slutprojektfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\slutprojektfinal\obj\Debug\net9.0\slutprojektfinal.AssemblyInfoInputs.cache
+C:\github\slutprojektfinal\obj\Debug\net9.0\slutprojektfinal.AssemblyInfo.cs
+C:\github\slutprojektfinal\obj\Debug\net9.0\slutprojektfinal.csproj.CoreCompileInputs.cache
+C:\github\slutprojektfinal\obj\Debug\net9.0\slutprojektfinal.sourcelink.json
+C:\github\slutprojektfinal\obj\Debug\net9.0\slutprojektfinal.dll
+C:\github\slutprojektfinal\obj\Debug\net9.0\refint\slutprojektfinal.dll
+C:\github\slutprojektfinal\obj\Debug\net9.0\slutprojektfinal.pdb
+C:\github\slutprojektfinal\obj\Debug\net9.0\slutprojektfinal.genruntimeconfig.cache
+C:\github\slutprojektfinal\obj\Debug\net9.0\ref\slutprojektfinal.dll
